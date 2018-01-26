@@ -1,7 +1,7 @@
 // messages sent by the bot in response to the user's requests. These can be updated to match your deployment
 
 module.exports = {
-  instruct: `**I\'m the RoomRequest Bot!**  I can help you find and book rooms in Cisco offices!\n\n 
+  instruct: `**I\'m the RoomRequest Bot!**  I can help you find and book SVP OpenLab rooms in Orange offices!\n\n 
   * To be guided through the process Type: **book a room**, to get started.\n\n
   * Once you a familiar with the commands you can Type: **book a room at CHG5 tomorrow from 1 to 4**.\n\n 
   * You will need to know the building ID you want to book a room at. If you don't know it, [click here](http://wwwin.cisco.com/c/cec/employee/buildings.html)\n\n 
