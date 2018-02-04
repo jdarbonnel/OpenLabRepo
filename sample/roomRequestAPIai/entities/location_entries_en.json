@@ -1,0 +1,27 @@
+[
+  {
+    "value": "FRA",
+    "synonyms": [
+      "FRA",
+      "Neuilly"
+    ]
+  },
+  {
+    "value":"EUR",
+    "synonyms": [
+      "Frankfurt"
+    ]  
+  },
+  {
+    "value":"NAM",
+    "synonyms": [
+      "Atlanta"
+    ]  
+  },
+  {
+    "value":"APAC",
+    "synonyms": [
+      "Syngapour"
+    ]  
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "value": "video",
+    "synonyms": [
+      "video",
+      "telepresence",
+      "TP",
+      "CTS",
+      "MX800"
+    ]
+  },
+  {
+    "value": "projector",
+    "synonyms": [
+      "projector",
+      "LCD",
+      "display",
+      "TV"
+    ]
+  }
+]

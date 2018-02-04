@@ -1,0 +1,15 @@
+[
+  {
+    "value": "@sys.time:time",
+    "synonyms": [
+      "@sys.time:time",
+      "now"
+    ]
+  },
+  {
+    "value": "@sys.time-period:time-period",
+    "synonyms": [
+      "@sys.time-period:time-period"
+    ]
+  }
+]
