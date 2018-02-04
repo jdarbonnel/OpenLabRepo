@@ -1,7 +1,7 @@
 {
   "name": "roomRequest-Spark-Bot",
   "description": "roomRequest is a Cisco Spark bot created to help users find and book available conferences rooms.",
-  "repository": "https://github.com/bdm1981/roomRequest-Spark-Bot",
+  "repository": "https://github.com/jdarbonnel/OpenLabRepo",
   "logo": "https://maxcdn.icons8.com/Color/PNG/512/Logos/heroku-512.png",
   "keywords": [
     "ews",
