@@ -1,35 +1,154 @@
-{
-    "buildingId": "HQ",
-    "buildingName": "Example HQ",
-    "address1": "",
-    "address2": "",
-    "city": "Chicago",
-    "state": "IL",
-    "phone": "",
-    "type": "Demo Office",
-    "lattitude": "",
-    "longitude": "",
-    "floors": [
-        {
-            "floorID": "1",
-            "floorName": "1ST FLOOR",
-            "drawingName": "",
-            "status": "Online"
-        }
-    ],
-    "timeZoneId": "America/Chicago",
-    "offset": -21600,
-    "conferenceDetails": [
-        {
-            "spnamePretty": "Boardroom",
-            "schedname": "Boardroom (12)",
-            "spaceCap": 1,
-            "videoConferencing": "Y",
-            "tpscreen": "MX800",
-            "proxyStatus": "PUBLIC",
-            "tpScreenNumber": 2,
-            "EmailAddress": "boardroome@example.onmicrosoft.com"
-        }
-    ],
-    "dstOffset": 60
-}
+[
+    {
+   
+        "buildingId": "FRA",
+        "buildingName": "Neuilly, IdF",
+        "address1": "112/114 Blvd Charles de Gaulle",
+        "address2": "",
+        "city": "Neuilly",
+        "state": "IdF",
+        "phone": "",
+        "type": "OpenLab Demo FRA Office",
+        "lattitude": "",
+        "longitude": "",
+        "floors": [
+            {
+                "floorID": "1",
+                "floorName": "1ST FLOOR",
+                "drawingName": "",
+                "status": "Online"
+            }
+        ],
+        "timeZoneId": "Europe/Paris",
+        "offset": -21600,
+        "conferenceDetails": [
+            {
+                "spnamePretty": "Orange Office",
+                "schedname": "SVP-Home Office (1)",
+                "spaceCap": 1,
+                "videoConferencing": "Y",
+                "tpscreen": "MX700",
+                "proxyStatus": "PUBLIC",
+                "tpScreenNumber": 2,
+                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+            },
+            {
+    
+            }
+        ],
+        "dstOffset": 60
+         
+    },  
+    
+    {
+        "buildingId": "EUR",
+        "buildingName": "Amsterdam",
+        "address1": "Radarweg 60 1043 NT Amsterdam",
+        "address2": "",
+        "city": "Dam",
+        "state": "",
+        "phone": "",
+        "type": "OpenLab Demo EUR Office",
+        "lattitude": "",
+        "longitude": "",
+        "floors": [
+            {
+                "floorID": "2",
+                "floorName": "2ST FLOOR",
+                "drawingName": "",
+                "status": "Online"
+            }
+        ],
+        "timeZoneId": "Europe/Amsterdam",
+        "offset": -21600,
+        "conferenceDetails": [
+            {
+                "spnamePretty": "Home Office",
+                "schedname": "SVP-HomeOffice (1)",
+                "spaceCap": 1,
+                "videoConferencing": "Y",
+                "tpscreen": "Spark Board 70'",
+                "proxyStatus": "PUBLIC",
+                "tpScreenNumber": 2,
+                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+             }
+        ],   
+        "dstOffset": 60  
+       
+    },
+    
+     {
+        "buildingId": "NAM",
+        "buildingName": "Amsterdam",
+        "address1": "Radarweg 60 1043 NT Amsterdam",
+        "address2": "",
+        "city": "Dam",
+        "state": "",
+        "phone": "",
+        "type": "OpenLab Demo EUR Office",
+        "lattitude": "",
+        "longitude": "",
+        "floors": [
+            {
+                "floorID": "2",
+                "floorName": "2ST FLOOR",
+                "drawingName": "",
+                "status": "Online"
+            }
+        ],
+        "timeZoneId": "Europe/Amsterdam",
+        "offset": -21600,
+        "conferenceDetails": [
+            {
+                "spnamePretty": "Home Office",
+                "schedname": "SVP-HomeOffice (1)",
+                "spaceCap": 1,
+                "videoConferencing": "Y",
+                "tpscreen": "Spark Board 70'",
+                "proxyStatus": "PUBLIC",
+                "tpScreenNumber": 2,
+                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+             }
+        ],   
+        "dstOffset": 60  
+       
+     },   
+    
+     {
+        "buildingId": "APAC",
+        "buildingName": "Amsterdam",
+        "address1": "Radarweg 60 1043 NT Amsterdam",
+        "address2": "",
+        "city": "Dam",
+        "state": "",
+        "phone": "",
+        "type": "OpenLab Demo EUR Office",
+        "lattitude": "",
+        "longitude": "",
+        "floors": [
+            {
+                "floorID": "2",
+                "floorName": "2ST FLOOR",
+                "drawingName": "",
+                "status": "Online"
+            }
+        ],
+        "timeZoneId": "Europe/Amsterdam",
+        "offset": -21600,
+        "conferenceDetails": [
+            {
+                "spnamePretty": "Home Office",
+                "schedname": "SVP-HomeOffice (1)",
+                "spaceCap": 1,
+                "videoConferencing": "Y",
+                "tpscreen": "Spark Board 70'",
+                "proxyStatus": "PUBLIC",
+                "tpScreenNumber": 2,
+                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+             }
+        ],   
+        "dstOffset": 60  
+       
+     } 
+]
+ 
