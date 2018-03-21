@@ -31,7 +31,7 @@
     },
     "EWSHOST": {
       "description": "URL for Exchange Web Services",
-      "value": "https://outlook.office365.com/"
+      "value": "https://outlook.office365.com/owa/"
     },
     "COLLECTION":{
       "description": "MongoDB Collection name containing building information.",
