@@ -36,8 +36,8 @@ db.buildings.findOne({}, function(err, docs){
 });
 
 var sampleBuilding = { 
-  "buildingId" : "SVP", 
-  "buildingName" : "Neuilly, IdF", 
+  "buildingId" : "FRA", 
+  "buildingName" : "Neuilly", 
   "address1" : "112/114 Blvd Charles de Gaulle", 
   "address2" : "", 
   "city" : "Neuilly", 
@@ -55,7 +55,7 @@ var sampleBuilding = {
       }
   ], 
   "timeZoneId" : "Europe/Paris", 
-  "offset" : -21600, 
+  "offset" : 0100, 
   "conferenceDetails" : [
       {
           "spnamePretty" : "Home Office", 
