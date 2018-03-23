@@ -20,17 +20,17 @@
             }
         ],
         "timeZoneId": "Europe/Paris",
-        "offset": -21600,
+        "offset": 100,
         "conferenceDetails": [
             {
                 "spnamePretty": "Orange Office",
-                "schedname": "SVP-Home Office (1)",
+                "schedname": "jldarbonnel (1)",
                 "spaceCap": 1,
                 "videoConferencing": "Y",
                 "tpscreen": "MX700",
                 "proxyStatus": "PUBLIC",
                 "tpScreenNumber": 2,
-                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+                "EmailAddress": "jldarbonnel@obsdemos.onmicrosoft.com"
             },
             {
     
