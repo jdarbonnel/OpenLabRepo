@@ -59,32 +59,32 @@ var sampleBuilding = {
   "conferenceDetails" : [
       {
           "spnamePretty" : "Home Office", 
-          "schedname" : "SVP-HomeOffice (1)", 
+          "schedname" : "jldarbonnel", 
           "spaceCap" : 1, 
           "videoConferencing" : "Y", 
           "tpscreen" : "DX80", 
           "proxyStatus" : "PUBLIC", 
           "tpScreenNumber" : 2, 
-          "EmailAddress" : "svp-homeoffice@obsdemos.onmicrosoft.com"
+          "EmailAddress" : "jldarbonnel@obsdemos.onmicrosoft.com"
       }, 
       {
           "spnamePretty" : "Poolside", 
-          "schedname" : "SVP-Poolside (6)", 
+          "schedname" : "jldarbonnel(6)", 
           "spaceCap" : 6, 
           "videoConferencing" : "N", 
           "tpscreen" : null, 
           "tpScreenNumber" : null, 
-          "EmailAddress" : "svp-poolside@obsdemos.onmicrosoft.com"
+          "EmailAddress" : "jldarbonnel@obsdemos.onmicrosoft.com"
       }, 
       {
           "spnamePretty" : "Theater", 
-          "schedname" : "SVP-Theater (8)", 
+          "schedname" : "jldarbonnel (8)", 
           "spaceCap" : 8, 
           "videoConferencing" : "Y", 
           "tpscreen" : null, 
           "proxyStatus" : "PUBLIC",
           "tpScreenNumber" : null, 
-          "EmailAddress" : "svp-theater@obsdemos.onmicrosoft.com"
+          "EmailAddress" : "jldarbonnel@obsdemos.onmicrosoft.com"
       }
   ], 
   "dstOffset" : 60
