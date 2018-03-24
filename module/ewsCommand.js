@@ -10,7 +10,8 @@ if(process.env.O365 > 0){
     username: process.env.EWSUSER,
     password: process.env.EWSPASSWD,
     host: process.env.EWSHOST,  
-    auth: 'Ntlm'
+    auth: 'Ntlm',
+    host: 'https://outlook.office365.com/owa/'
   };
 
   var options = {};
@@ -45,7 +46,7 @@ fs.readFile('./tzEWSid.json', function (err, data) {
 var ews = new EWS(ewsConfig, options);
 
 if(process.env.O365){
-  // Office 356
+  // Office 365
   var ewsSoapHeader = {
     't:RequestServerVersion': {
       attributes: {
