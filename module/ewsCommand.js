@@ -10,8 +10,7 @@ if(process.env.O365 > 0){
     username: process.env.EWSUSER,
     password: process.env.EWSPASSWD,
     host: process.env.EWSHOST,  
-    auth: 'basic',
-    host: 'https://outlook.office365.com/owa/'
+    auth: 'ntlm'
   };
 
   var options = {};
