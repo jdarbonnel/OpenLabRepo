@@ -58,14 +58,14 @@ var sampleBuilding = {
   "offset" : 0100, 
   "conferenceDetails" : [
       {
-          "spnamePretty" : "Home Office", 
-          "schedname" : "jldarbonnel", 
+          "spnamePretty" : "MX700 Neuilly", 
+          "schedname" : "mx700.neuilly", 
           "spaceCap" : 1, 
           "videoConferencing" : "Y", 
-          "tpscreen" : "DX80", 
+          "tpscreen" : "MX700 Neuilly", 
           "proxyStatus" : "PUBLIC", 
           "tpScreenNumber" : 2, 
-          "EmailAddress" : "jldarbonnel@obsdemos.onmicrosoft.com"
+          "EmailAddress" : "mx700.neuilly@demotogether.com"
       }, 
       {
           "spnamePretty" : "Poolside", 
