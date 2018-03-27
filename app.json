@@ -21,7 +21,7 @@
     },
     "O365": {
       "description": "Office 365 Environment. 1=true, 0=false",
-      "value": "1"
+      "value": "0"
     },
     "EWSUSER": {
       "description": "Exchange Web Services User Name"
@@ -31,7 +31,7 @@
     },
     "EWSHOST": {
       "description": "URL for Exchange Web Services",
-      "value": "https://outlook.office365.com/owa/"
+      "value": "https://owa.demotogether.com/owa/"
     },
     "COLLECTION":{
       "description": "MongoDB Collection name containing building information.",
