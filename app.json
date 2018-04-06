@@ -31,7 +31,7 @@
     },
     "EWSHOST": {
       "description": "URL for Exchange Web Services",
-      "value": "https://owa.demotogether.com/owa/"
+      "value": "https://owa.demotogether.com/ews/"
     },
     "COLLECTION":{
       "description": "MongoDB Collection name containing building information.",
