@@ -20,7 +20,7 @@ if(process.env.O365 > 0){
     username: process.env.EWSUSER,
     password: process.env.EWSPASSWD,
     host: process.env.EWSHOST,
-    auth:'basic'
+    auth:'digest'  
   };
 
   var options = {
