@@ -23,20 +23,20 @@
         "offset": 100,
         "conferenceDetails": [
             {
-                "spnamePretty": "Orange Office",
-                "schedname": "jldarbonnel (1)",
+                "spnamePretty": "MX700 Neuilly",
+                "schedname": "mx700.neuilly (1)",
                 "spaceCap": 1,
                 "videoConferencing": "Y",
                 "tpscreen": "MX700",
                 "proxyStatus": "PUBLIC",
                 "tpScreenNumber": 2,
-                "EmailAddress": "jldarbonnel@obsdemos.onmicrosoft.com"
+                "EmailAddress": "mx700.neuilly@demotogether.com.com"
             },
             {
     
             }
         ],
-        "dstOffset": 60
+        "dstOffset": 120
          
     },  
     
@@ -60,17 +60,17 @@
             }
         ],
         "timeZoneId": "Europe/Amsterdam",
-        "offset": -21600,
+        "offset": 100,
         "conferenceDetails": [
             {
                 "spnamePretty": "Home Office",
-                "schedname": "SVP-HomeOffice (1)",
+                "schedname": "jldarbonnel(1)",
                 "spaceCap": 1,
                 "videoConferencing": "Y",
                 "tpscreen": "Spark Board 70'",
                 "proxyStatus": "PUBLIC",
                 "tpScreenNumber": 2,
-                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+                "EmailAddress": "jldarbonnel@obsdemos.onmicrosoft.com"
              }
         ],   
         "dstOffset": 60  
@@ -85,7 +85,7 @@
         "city": "Dam",
         "state": "",
         "phone": "",
-        "type": "OpenLab Demo EUR Office",
+        "type": "OpenLab Demo NAM Office",
         "lattitude": "",
         "longitude": "",
         "floors": [
@@ -101,13 +101,13 @@
         "conferenceDetails": [
             {
                 "spnamePretty": "Home Office",
-                "schedname": "SVP-HomeOffice (1)",
+                "schedname": "jldarbonnel (1)",
                 "spaceCap": 1,
                 "videoConferencing": "Y",
                 "tpscreen": "Spark Board 70'",
                 "proxyStatus": "PUBLIC",
                 "tpScreenNumber": 2,
-                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+                "EmailAddress": "jldarbonnel@obsdemos.onmicrosoft.com"
              }
         ],   
         "dstOffset": 60  
@@ -122,7 +122,7 @@
         "city": "Dam",
         "state": "",
         "phone": "",
-        "type": "OpenLab Demo EUR Office",
+        "type": "OpenLab Demo APAC Office",
         "lattitude": "",
         "longitude": "",
         "floors": [
@@ -138,13 +138,13 @@
         "conferenceDetails": [
             {
                 "spnamePretty": "Home Office",
-                "schedname": "SVP-HomeOffice (1)",
+                "schedname": "jldarbonnel (1)",
                 "spaceCap": 1,
                 "videoConferencing": "Y",
                 "tpscreen": "Spark Board 70'",
                 "proxyStatus": "PUBLIC",
                 "tpScreenNumber": 2,
-                "EmailAddress": "jdarbonnel@obsdemos.onmicrosoft.com"
+                "EmailAddress": "jldarbonnel@obsdemos.onmicrosoft.com"
              }
         ],   
         "dstOffset": 60  
