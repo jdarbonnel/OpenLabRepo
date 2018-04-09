@@ -75,14 +75,14 @@ module.exports = {
           //'Bias': bias,
           'StandardTime': {
             'Bias': "0",
-            'Time': '02:00:00',
+            'Time': '+01:00:00',
             'DayOrder': "5",
             'Month': "10",
             'DayOfWeek': 'Sunday'
           },
           'DaylightTime': {
             'Bias': params.dstOffset,
-            'Time': '02:00:00',
+            'Time': '+01:00:00',
             'DayOrder': "1",
             'Month': "4",
             'DayOfWeek': 'Sunday'
