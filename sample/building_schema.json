@@ -20,12 +20,12 @@
             }
         ],
         "timeZoneId": "Europe/Paris",
-        "offset": 100,
+        "offset": 60,
         "conferenceDetails": [
             {
                 "spnamePretty": "MX700 Neuilly",
-                "schedname": "mx700.neuilly (1)",
-                "spaceCap": 1,
+                "schedname": "mx700.neuilly (10)",
+                "spaceCap": 10,
                 "videoConferencing": "Y",
                 "tpscreen": "MX700",
                 "proxyStatus": "PUBLIC",
@@ -33,10 +33,25 @@
                 "EmailAddress": "mx700.neuilly@demotogether.com.com"
             },
             {
-    
+                "spnamePretty": "Theater",
+                "schedname": "mx300.rennes (6",
+                "spaceCap": 6,
+                "videoConferencing": "Y",
+                "tpscreen": null,
+                "proxyStatus": "PUBLIC",
+                "tpScreenNumber": null,
+                "EmailAddress": "mx300.rennes@demotogether.com"
+            },
+            {   "spnamePretty": "dx80.neuilly",
+                "schedname": "dx80.neuilly (2)",
+                "spaceCap": 2,
+                "videoConferencing": "N",
+                "tpscreen": null,
+                "tpScreenNumber": null,
+                "EmailAddress": "dx80.neuilly@demotogether.com"
             }
         ],
-        "dstOffset": 0
+        "dstOffset": 60
          
     },  
     
@@ -60,7 +75,7 @@
             }
         ],
         "timeZoneId": "Europe/Amsterdam",
-        "offset": 100,
+        "offset": 60,
         "conferenceDetails": [
             {
                 "spnamePretty": "Home Office",
