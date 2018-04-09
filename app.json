@@ -25,7 +25,7 @@
     },
     "EWSUSER": {
       "description": "Exchange Web Services User Name",
-      "value": "admintmsxe@showroom.iss/net"
+      "value": "admintmsxe@showroom.iss.net"
     },
     "EWSPASSWD": {
       "description": "Exchange Web Services Password"
