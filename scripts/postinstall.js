@@ -68,7 +68,7 @@ var sampleBuilding = {
           "EmailAddress" : "mx700.neuilly@demotogether.com"
       }, 
       {
-          "spnamePretty" : "Poolside", 
+          "spnamePretty" : "dx80.neuilly", 
           "schedname" : "dx80.neuilly (6)", 
           "spaceCap" : 6, 
           "videoConferencing" : "N", 
