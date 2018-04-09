@@ -47,6 +47,7 @@
                 "spaceCap": 2,
                 "videoConferencing": "N",
                 "tpscreen": null,
+                "proxyStatus": "PUBLIC",
                 "tpScreenNumber": null,
                 "EmailAddress": "dx80.neuilly@demotogether.com"
             }
@@ -78,14 +79,14 @@
         "offset": 60,
         "conferenceDetails": [
             {
-                "spnamePretty": "Home Office",
-                "schedname": "jldarbonnel(1)",
-                "spaceCap": 1,
+                "spnamePretty": "MX300 Amsterdam",
+                "schedname": "MX300 Amsterdam (8)",
+                "spaceCap": 8,
                 "videoConferencing": "Y",
-                "tpscreen": "Spark Board 70'",
+                "tpscreen": "MX300 TP'",
                 "proxyStatus": "PUBLIC",
-                "tpScreenNumber": 2,
-                "EmailAddress": "jldarbonnel@obsdemos.onmicrosoft.com"
+                "tpScreenNumber": null,
+                "EmailAddress": "mx300.rennes@demotogether.com"
              }
         ],   
         "dstOffset": 60  
