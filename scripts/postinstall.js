@@ -55,7 +55,7 @@ var sampleBuilding = {
       }
   ], 
   "timeZoneId" : "Europe/Paris", 
-  "offset" : 0100, 
+  "offset" : 60, 
   "conferenceDetails" : [
       {
           "spnamePretty" : "MX700 Neuilly", 
