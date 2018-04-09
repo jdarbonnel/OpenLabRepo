@@ -3,7 +3,7 @@
 module.exports = {
   instruct: `**I\'m the RoomRequest Bot!**  I can help you find and book SVP OpenLab rooms in Orange Offices!\n\n 
   * To be guided through the process Type: **book a room**, to get started.\n\n
-  * Once you a familiar with the commands you can Type for example: **book a room at FRA tomorrow from 9 to 10**.\n\n 
+  * Once you a familiar with the commands you can Type for example: **book a room at FRA tomorrow from 9:00 to 10:00**.\n\n 
   * You will need to know the building ID you want to book a room at. If you don't know it, [click here](http://www.leparisien.fr/issy-les-moulineaux-92130/issy-les-moulineaux-decouvrez-le-futur-siege-d-orange-05-09-2017-7237572.php)\n\n 
   * type: **stop** or **cancel** at any time to cancel a request.\n\n 
   * type **support** to join a Spark space to ask questions about this bot\n\n * [click here](https://www.youtube.com/watch?v=YA7yG-LIYxU) to watch a quick demo video of roomRequest`,
