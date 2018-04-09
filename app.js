@@ -61,7 +61,7 @@ controller.setupWebserver(PORT, function(err, webserver) {
 // array for handling the conversation state
 var tracker = new Manager.Convo();
 
-controller.hears('hello', 'direct_message,direct_mention', function(bot, message) {
+controller.hears(['hello','Hi','Salut'], 'direct_message,direct_mention', function(bot, message) {
   console.log(message.user + ' - ' + message.text);
   privateAPI.startTyping(process.env.BOTTOKEN, message.channel);
   //console.log(message);
