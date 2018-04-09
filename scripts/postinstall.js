@@ -59,7 +59,7 @@ var sampleBuilding = {
   "conferenceDetails" : [
       {
           "spnamePretty" : "MX700 Neuilly", 
-          "schedname" : "mx700.neuilly", 
+          "schedname" : "mx700.neuilly (1)", 
           "spaceCap" : 1, 
           "videoConferencing" : "Y", 
           "tpscreen" : "MX700 Neuilly", 
@@ -69,22 +69,22 @@ var sampleBuilding = {
       }, 
       {
           "spnamePretty" : "Poolside", 
-          "schedname" : "jldarbonnel(6)", 
+          "schedname" : "dx80.neuilly (6)", 
           "spaceCap" : 6, 
           "videoConferencing" : "N", 
           "tpscreen" : null, 
           "tpScreenNumber" : null, 
-          "EmailAddress" : "jldarbonnel@obsdemos.onmicrosoft.com"
+          "EmailAddress" : "dx80.neuilly@demotogether.com"
       }, 
       {
           "spnamePretty" : "Theater", 
-          "schedname" : "jldarbonnel (8)", 
+          "schedname" : "mx300.rennes (8)", 
           "spaceCap" : 8, 
           "videoConferencing" : "Y", 
           "tpscreen" : null, 
           "proxyStatus" : "PUBLIC",
           "tpScreenNumber" : null, 
-          "EmailAddress" : "jldarbonnel@obsdemos.onmicrosoft.com"
+          "EmailAddress" : "mx300.rennes@demotogether.com"
       }
   ], 
   "dstOffset" : 60
