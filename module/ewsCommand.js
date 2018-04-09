@@ -74,7 +74,7 @@ module.exports = {
           'Bias': params.bias,
           //'Bias': bias,
           'StandardTime': {
-            'Bias': "60",
+            'Bias': "0",
             'Time': '02:00:00',
             'DayOrder': "5",
             'Month': "10",
