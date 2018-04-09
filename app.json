@@ -24,14 +24,15 @@
       "value": "0"
     },
     "EWSUSER": {
-      "description": "Exchange Web Services User Name"
+      "description": "Exchange Web Services User Name",
+      "value": "admintmsxe@showroom.iss/net"
     },
     "EWSPASSWD": {
       "description": "Exchange Web Services Password"
     },
     "EWSHOST": {
       "description": "URL for Exchange Web Services",
-      "value": "https://owa.demotogether.com/ews/"
+      "value": "https://owa.demotogether.com"
     },
     "COLLECTION":{
       "description": "MongoDB Collection name containing building information.",
