@@ -64,7 +64,8 @@ module.exports = {
       if(rooms[i].EmailAddress && !privateRoom){
         roomsArray.push({
           'EmailAddress': rooms[i].EmailAddress, 
-          'DisplayName': rooms[i].schedname, 
+          'DisplayName': rooms[i].schedname,
+          'Public': rooms[i].proxy,
           'Video': this.videoCheck(rooms[i])});
       }
     }
