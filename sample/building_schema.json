@@ -23,7 +23,7 @@
         "offset": 60,
         "conferenceDetails": [
             {
-                "spnamePretty": "MX700 Neuilly",
+            "spnamePretty": "MX700 Neuilly",
             "schedname": "mx700.neuill (10)",
             "spaceCap": 10,
             "videoConferencing": "Y",
@@ -90,7 +90,7 @@
         "conferenceDetails": [
             {
                 "spnamePretty": "MX300 Amsterdam",
-                "schedname": "mx300.rennes (8)",
+                "schedname": "mx300.amsterdam (8)",
                 "spaceCap": 8,
                 "videoConferencing": "Y",
                 "tpscreen": "MX300 TP'",
