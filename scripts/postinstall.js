@@ -37,9 +37,7 @@ db.buildings.findOne({}, function(err, docs){
 
 var sampleBuilding = { 
   "buildingId" : "FRA",
-  "buildingId" : "EUR",
   "buildingName" : "Neuilly",
-  "buildingName" : "Frankfurt",
   "address1" : "112/114 Blvd Charles de Gaulle", 
   "address2" : "", 
   "city" : "Neuilly", 
@@ -62,14 +60,12 @@ var sampleBuilding = {
       {
           "spnamePretty" : "MX700 Neuilly", 
           "schedname" : "mx700.neuilly (10)",
-          "schedname" : "mx700.toulouse (10)",
           "spaceCap" : 10, 
           "videoConferencing" : "Y", 
           "tpscreen" : "MX700 Neuilly", 
           "proxyStatus" : "PUBLIC", 
           "tpScreenNumber" : 2, 
-          "EmailAddress" : "mx700.neuilly@demotogether.com",
-          "EmailAddress" : "mx700.toulouse@demotogether.com"
+          "EmailAddress" : "mx700.neuilly@demotogether.com"
       }, 
       {
           "spnamePretty" : "dx80.neuilly", 
