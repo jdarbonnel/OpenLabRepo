@@ -98,4 +98,70 @@ var sampleBuilding = {
       }
   ], 
   "dstOffset" : 60
+  
+}
+var sampleBuilding = { 
+  "buildingId" : "EUR", 
+  "buildingName" : "Frankfurt", 
+  "address1" : "112/114 Blvd Charles de Gaulle", 
+  "address2" : "", 
+  "city" : "Frankfurt", 
+  "state" : "IdF", 
+  "phone" : "", 
+  "type" : "OpenLab Demo Office", 
+  "lattitude" : "", 
+  "longitude" : "", 
+  "floors" : [
+      {
+          "floorID" : "1", 
+        "floorName" : "1ST FLOOR", 
+        "drawingName" : "", 
+        "status" : "Online"
+  }
+], 
+"timeZoneId" : "Europe/Paris", 
+"offset" : 60, 
+"conferenceDetails" : [
+    {
+        "spnamePretty" : "MX700 Neuilly", 
+        "schedname" : "mx700.neuilly (10)", 
+        "spaceCap" : 10, 
+        "videoConferencing" : "Y", 
+        "tpscreen" : "MX700 Neuilly", 
+        "proxyStatus" : "PUBLIC", 
+        "tpScreenNumber" : 2, 
+        "EmailAddress" : "mx700.neuilly@demotogether.com"
+    }, 
+    {
+        "spnamePretty" : "dx80.neuilly", 
+        "schedname" : "dx80.neuilly (2)", 
+        "spaceCap" : 2, 
+        "videoConferencing" : "Y", 
+        "tpscreen" : null, 
+        "tpScreenNumber" : null, 
+        "EmailAddress" : "dx80.neuilly@demotogether.com"
+    }, 
+    {
+        "spnamePretty" : "Theater", 
+        "schedname" : "mx300.rennes (6)", 
+        "spaceCap" : 6, 
+        "videoConferencing" : "Y", 
+        "tpscreen" : null, 
+        "proxyStatus" : "PUBLIC",
+        "tpScreenNumber" : null, 
+        "EmailAddress" : "mx300.rennes@demotogether.com"
+    },
+    {
+      "spnamePretty" : "Castelane", 
+      "schedname" : "mx300.marseille (6)", 
+      "spaceCap" : 6, 
+      "videoConferencing" : "Y", 
+      "tpscreen" : null, 
+      "proxyStatus" : "PUBLIC",
+      "tpScreenNumber" : null, 
+      "EmailAddress" : "mx300.marseille@demotogether.com"
+    }
+], 
+"dstOffset" : 60
+
 }
