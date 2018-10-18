@@ -58,14 +58,14 @@ var sampleBuilding = {
   "offset" : 60, 
   "conferenceDetails" : [
       {
-          "spnamePretty" : "MX700 Neuilly", 
-          "schedname" : "mx700.neuilly (10)",
+          "spnamePretty" : "DX80 Neuilly", 
+          "schedname" : "DX80.neuilly (10)",
           "spaceCap" : 10, 
           "videoConferencing" : "Y", 
-          "tpscreen" : "MX700 Neuilly", 
+          "tpscreen" : "DX00 Neuilly", 
           "proxyStatus" : "PUBLIC", 
           "tpScreenNumber" : 2, 
-          "EmailAddress" : "mx700.neuilly@demotogether.com"
+          "EmailAddress" : "DX80.neuilly@demotogether.com"
       }, 
       {
           "spnamePretty" : "dx80.neuilly", 
