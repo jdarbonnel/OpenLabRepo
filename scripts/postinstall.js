@@ -37,13 +37,13 @@ db.buildings.findOne({}, function(err, docs){
 
 var sampleBuilding = { 
   "buildingId" : "FRA",
-  "buildingName" : "Neuilly",
-  "address1" : "112/114 Blvd Charles de Gaulle", 
-  "address2" : "", 
-  "city" : "Neuilly", 
+  "buildingName" : "Coeur Def",
+  "address1" : "100/110 ESPLANADE DU GNRAL DE GAULLE", 
+  "address2" : "92400", 
+  "city" : "Courbevoie", 
   "state" : "IdF", 
   "phone" : "", 
-  "type" : "OpenLab Demo Office", 
+  "type" : "OpenLab Demo FRA Office", 
   "lattitude" : "", 
   "longitude" : "", 
   "floors" : [
@@ -59,32 +59,23 @@ var sampleBuilding = {
   "conferenceDetails" : [
       {
           "spnamePretty" : "DX80 Neuilly", 
-          "schedname" : "DX80.neuilly (10)",
-          "spaceCap" : 10, 
+          "schedname" : "DX80.neuilly (4)",
+          "spaceCap" : 4, 
           "videoConferencing" : "Y", 
           "tpscreen" : "DX00 Neuilly", 
           "proxyStatus" : "PUBLIC", 
-          "tpScreenNumber" : 2, 
+          "tpScreenNumber" : 1, 
           "EmailAddress" : "DX80.neuilly@demotogether.com"
       }, 
       {
-          "spnamePretty" : "dx80.neuilly", 
-          "schedname" : "dx80.neuilly (2)", 
-          "spaceCap" : 2, 
-          "videoConferencing" : "Y", 
-          "tpscreen" : null, 
-          "tpScreenNumber" : null, 
-          "EmailAddress" : "dx80.neuilly@demotogether.com"
-      }, 
-      {
           "spnamePretty" : "Theater", 
-          "schedname" : "mx300.rennes (6)", 
-          "spaceCap" : 6, 
+          "schedname" : "MX700.Neuilly (10)", 
+          "spaceCap" : 10, 
           "videoConferencing" : "Y", 
           "tpscreen" : null, 
           "proxyStatus" : "PUBLIC",
           "tpScreenNumber" : null, 
-          "EmailAddress" : "mx300.rennes@demotogether.com"
+          "EmailAddress" : "mx700.neuilly@demotogether.com"
       },
       {
         "spnamePretty" : "Castelane", 
