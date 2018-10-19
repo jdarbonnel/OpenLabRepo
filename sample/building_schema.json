@@ -2,10 +2,10 @@
     {
    
         "buildingId": "FRA",
-        "buildingName": "Neuilly, IdF",
-        "address1": "112/114 Blvd Charles de Gaulle",
+        "buildingName": "Coeur Def",
+        "address1": "100/110 ESPLANADE DU GNRAL DE GAULLE",
         "address2": "",
-        "city": "Neuilly",
+        "city": "Courbevoie",
         "state": "IdF",
         "phone": "",
         "type": "OpenLab Demo FRA Office",
@@ -25,17 +25,17 @@
             {
             "spnamePretty": "DX80 Neuilly",
             "schedname": "DX80.neuilly (2)",
-            "spaceCap": 10,
+            "spaceCap": 4,
             "videoConferencing": "Y",
             "tpscreen": "DX80 Neuilly",
             "proxyStatus": "PUBLIC",
-            "tpScreenNumber": 2,
+            "tpScreenNumber": 1,
             "EmailAddress": "dx80.neuilly@demotogether.com"
         },
         {
             "spnamePretty": "MX700 neuilly",
-            "schedname": "mx7000.neuilly (2)",
-            "spaceCap": 2,
+            "schedname": "mx7000.neuilly (10)",
+            "spaceCap": 10,
             "videoConferencing": "Y",
             "tpscreen": null,
             "tpScreenNumber": null,
