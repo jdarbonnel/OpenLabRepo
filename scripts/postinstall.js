@@ -68,7 +68,14 @@ var sampleBuilding = {
           "EmailAddress" : "DX80.neuilly@demotogether.com"
       }, 
       {
-        
+        "spnamePretty" : "Castelane", 
+        "schedname" : "MX700 Coeur Defense (10)", 
+        "spaceCap" : 6, 
+        "videoConferencing" : "Y", 
+        "tpscreen" : null, 
+        "proxyStatus" : "PUBLIC",
+        "tpScreenNumber" : null, 
+        "EmailAddress" : "mx700.neuilly@demotogether.com"
       },
       {
         "spnamePretty" : "Castelane", 
