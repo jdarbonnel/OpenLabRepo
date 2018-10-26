@@ -23,7 +23,7 @@
         "offset": 60,
         "conferenceDetails": [
             {
-            "spnamePretty": "DX80 Neuilly",
+            "spnamePretty": "DX80 Coeur Defense",
             "schedname": "DX80.neuilly (2)",
             "spaceCap": 4,
             "videoConferencing": "Y",
@@ -33,23 +33,23 @@
             "EmailAddress": "dx80.neuilly@demotogether.com"
         },
         {
-            "spnamePretty": "MX700 neuilly",
+            "spnamePretty": "MX700 Coeur Defense",
             "schedname": "mx7000.neuilly (10)",
             "spaceCap": 10,
             "videoConferencing": "Y",
-            "tpscreen": null,
-            "tpScreenNumber": null,
+            "tpscreen": "MX700 Neuilly" ,
+            "tpScreenNumber": 1,
             "EmailAddress": "mx700.neuilly@demotogether.com"
         },
         {
-            "spnamePretty": "Theater",
-            "schedname": "mx300.neuilly (5)",
-            "spaceCap": 10,
+            "spnamePretty": "MX300 Paris",
+            "schedname": "mx300.neuilly (6)",
+            "spaceCap": 6,
             "videoConferencing": "Y",
-            "tpscreen": null,
+            "tpscreen": "MX300 Paris",
             "proxyStatus": "PUBLIC",
-            "tpScreenNumber": null,
-            "EmailAddress": "mx300.neuilly@demotogether.com"
+            "tpScreenNumber": 1,
+            "EmailAddress": "mx300.paris@demotogether.com"
         },
         {
             "spnamePretty": "Castelane",
