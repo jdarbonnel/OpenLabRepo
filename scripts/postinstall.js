@@ -70,22 +70,22 @@ var sampleBuilding = {
       {
         "spnamePretty" : "Castelane", 
         "schedname" : "MX700 Coeur Defense (10)", 
-        "spaceCap" : 6, 
+        "spaceCap" : 10, 
         "videoConferencing" : "Y", 
         "tpscreen" : null, 
         "proxyStatus" : "PUBLIC",
-        "tpScreenNumber" : null, 
+        "tpScreenNumber" : 2, 
         "EmailAddress" : "mx700.neuilly@demotogether.com"
       },
       {
         "spnamePretty" : "Castelane", 
-        "schedname" : "MX700 Coeur Defense (10)", 
+        "schedname" : "MX300 Paris Anjou (6)", 
         "spaceCap" : 6, 
         "videoConferencing" : "Y", 
         "tpscreen" : null, 
         "proxyStatus" : "PUBLIC",
-        "tpScreenNumber" : null, 
-        "EmailAddress" : "mx700.neuilly@demotogether.com"
+        "tpScreenNumber" : 1, 
+        "EmailAddress" : "mx300.paris@demotogether.com"
       }
 
       
