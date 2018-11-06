@@ -63,7 +63,7 @@ var sampleBuilding = {
           "spaceCap" : 4, 
           "videoConferencing" : "Y", 
           "tpscreen" : "DX80 Neuilly", 
-          "proxyStatus" : "PUBLIC", 
+          "proxyStatus" : "Public", 
           "tpScreenNumber" : 1, 
           "EmailAddress" : "DX80.neuilly@demotogether.com"
       }, 
@@ -73,19 +73,19 @@ var sampleBuilding = {
         "spaceCap" : 10, 
         "videoConferencing" : "Y", 
         "tpscreen" : "MX700 Coeur Defense", 
-        "proxyStatus" : "PUBLIC",
+        "proxyStatus" : "Public",
         "tpScreenNumber" : 1, 
         "EmailAddress" : "mx700.neuilly@demotogether.com"
       },
       {
         "spnamePretty" : "MX300 Paris Anjou", 
-        "schedname" : "MX300 Paris Anjou (6)", 
-        "spaceCap" : 6, 
+        "schedname" : "MX700 Coeur Defense (12)", 
+        "spaceCap" : 12, 
         "videoConferencing" : "Y", 
-        "tpscreen" : "MX300 Paris", 
-        "proxyStatus" : "PUBLIC",
+        "tpscreen" : "MX700 Coeur Defense", 
+        "proxyStatus" : "Public",
         "tpScreenNumber" : 1, 
-        "EmailAddress" : "mx300.paris@demotogether.com"
+        "EmailAddress" : "mx700.neuilly@demotogether.com"
       }
 
       
