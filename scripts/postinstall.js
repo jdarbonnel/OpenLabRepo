@@ -57,6 +57,17 @@ var sampleBuilding = {
   "timeZoneId" : "Europe/Paris", 
   "offset" : 60, 
   "conferenceDetails" : [
+      
+      {
+         "spnamePretty" : "ROOM55 Coeur Defense", 
+         "schedname" : "ROOM55 (Dual) Coeur Defense (10-12)", 
+         "spaceCap" : 12, 
+         "videoConferencing" : "Y", 
+         "tpscreen" : "ROOM55CD Coeur Defense", 
+         "proxyStatus" : "Public",
+         "tpScreenNumber" : 2, 
+         "EmailAddress" : "room55cd@demotogether.com"
+      },
       {
           "spnamePretty" : "DX80 Coeur Defense", 
           "schedname" : "DX80 Coeur Defense (4)",
@@ -99,7 +110,7 @@ var sampleBuilding = {
       }, 
       {
         "spnamePretty" : "MX300 Bordeaux", 
-        "schedname" : "MX300 Bordeaux(10)", 
+        "schedname" : "MX300 Bordeaux (10)", 
         "spaceCap" : 10, 
         "videoConferencing" : "Y", 
         "tpscreen" : "MX300 Bordeaux", 
