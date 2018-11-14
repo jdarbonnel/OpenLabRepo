@@ -79,8 +79,8 @@ var sampleBuilding = {
       },
       {
         "spnamePretty" : "MX300 Paris Anjou", 
-        "schedname" : "MX300 Paris Anjou(10)", 
-        "spaceCap" : 10, 
+        "schedname" : "ROOM55 (Dual) Coeur Defense (10-12)", 
+        "spaceCap" : 12, 
         "videoConferencing" : "Y", 
         "tpscreen" : "RMX300 Paris Anjou", 
         "proxyStatus" : "Public",
