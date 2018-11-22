@@ -59,126 +59,135 @@ var sampleBuilding = {
   "conferenceDetails" : [
       
       {
-         "spnamePretty" : "ROOM55 Coeur Defense", 
-         "schedname" : "ROOM55 (Dual) Coeur Defense (10-12)", 
-         "spaceCap" : 12, 
-         "videoConferencing" : "Y", 
-         "tpscreen" : "ROOM55CD Coeur Defense", 
-         "proxyStatus" : "Public",
-         "tpScreenNumber" : 2, 
-         "EmailAddress" : "room55cd@demotogether.com"
-      },
-              {
-                "spnamePretty" : "ROOM55 Coeur Defense", 
-                "schedname" : "ROOM55 (Dual) Coeur Defense (10-12)", 
-                "spaceCap" : 12, 
-                "videoConferencing" : "Y", 
-                "tpscreen" : "ROOM55CD Coeur Defense", 
-                "proxyStatus" : "Public",
-                "tpScreenNumber" : 2, 
-                "EmailAddress" : "room55cd2@demotogether.com"
-              },
-      {
-          "spnamePretty" : "DX80 Coeur Defense", 
-          "schedname" : "DX80 Coeur Defense (4)",
-          "spaceCap" : 4, 
-          "videoConferencing" : "Y", 
-          "tpscreen" : "DX80 Neuilly", 
-          "proxyStatus" : "Public", 
-          "tpScreenNumber" : 1, 
-          "EmailAddress" : "DX80.neuilly@demotogether.com"
-      },
-            {
-              "spnamePretty" : "DX80 Coeur Defense", 
-              "schedname" : "DX80 Coeur Defense (4)",
-              "spaceCap" : 4, 
-              "videoConferencing" : "Y", 
-              "tpscreen" : "DX80 Neuilly", 
-              "proxyStatus" : "Public", 
-              "tpScreenNumber" : 1, 
-              "EmailAddress" : "DX80.neuilly2@demotogether.com"
-             }, 
-      {
-        "spnamePretty" : "DX70 Coeur Defense", 
-        "schedname" : "DX70 Coeur Defense (4)",
-        "spaceCap" : 2, 
-        "videoConferencing" : "Y", 
-        "tpscreen" : "DX70 JLD", 
-        "proxyStatus" : "Public", 
-        "tpScreenNumber" : 1, 
-        "EmailAddress" : "dx70.jld@demotogether.com"
-    }, 
-            {
-             "spnamePretty" : "DX70 Coeur Defense", 
-             "schedname" : "DX70 Coeur Defense (4)",
-             "spaceCap" : 2, 
-             "videoConferencing" : "Y", 
-             "tpscreen" : "DX70 JLD", 
-             "proxyStatus" : "Public", 
-             "tpScreenNumber" : 1, 
-             "EmailAddress" : "dx70.jld2@demotogether.com"
-           },      
-      {
-        "spnamePretty" : "MX300 Paris Anjou", 
-        "schedname" : "MX300 Paris Anjou (10)", 
-        "spaceCap" : 10, 
-        "videoConferencing" : "Y", 
-        "tpscreen" : "MX300 Paris Anjou", 
-        "proxyStatus" : "Public",
-        "tpScreenNumber" : 1, 
-        "EmailAddress" : "mx300.paris@demotogether.com"
-      },
-           {
-             "spnamePretty" : "MX300 Paris Anjou", 
-             "schedname" : "MX300 Paris Anjou (10)", 
-             "spaceCap" : 10, 
-             "videoConferencing" : "Y", 
-             "tpscreen" : "MX300 Paris Anjou", 
-             "proxyStatus" : "Public",
-             "tpScreenNumber" : 1, 
-             "EmailAddress" : "mx300.paris2@demotogether.com"
-           },
-      {
-        "spnamePretty" : "MX300 Marseille", 
-        "schedname" : "MX300 Marseille(10)", 
-        "spaceCap" : 10, 
-        "videoConferencing" : "Y", 
-        "tpscreen" : "MX300 Marseille", 
-        "proxyStatus" : "Public",
-        "tpScreenNumber" : 1, 
-        "EmailAddress" : "mx300.paris@demotogether.com"
-      }, 
-            {
-              "spnamePretty" : "MX300 Marseille", 
-              "schedname" : "MX300 Marseille(10)", 
-              "spaceCap" : 10, 
-              "videoConferencing" : "Y", 
-              "tpscreen" : "MX300 Marseille", 
-              "proxyStatus" : "Public",
-              "tpScreenNumber" : 1, 
-              "EmailAddress" : "mx300.paris2@demotogether.com"
-      },
-      {
-        "spnamePretty" : "MX300 Bordeaux", 
-        "schedname" : "MX300 Bordeaux (10)", 
-        "spaceCap" : 10, 
-        "videoConferencing" : "Y", 
-        "tpscreen" : "MX300 Bordeaux", 
-        "proxyStatus" : "Public",
-        "tpScreenNumber" : 1, 
-        "EmailAddress" : "mx300.paris@demotogether.com"
-      }, 
-
-           {
-            "spnamePretty" : "MX300 Bordeaux", 
-            "schedname" : "MX300 Bordeaux (10)", 
-            "spaceCap" : 10, 
-            "videoConferencing" : "Y", 
-            "tpscreen" : "MX300 Bordeaux", 
-            "proxyStatus" : "Public",
-            "tpScreenNumber" : 1, 
-            "EmailAddress" : "mx300.paris2@demotogether.com"
-      }, 
+            "spnamePretty": "ROOM55 Coeur Defense",
+            "schedname": "ROOM55 - Coeur Defense in Workshop Room (10-12) ",
+            "spaceCap": 12,
+            "videoConferencing": "Y",
+            "tpscreen": "ROOM55CD Coeur Defense",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 2,
+            "EmailAddress": "room55cd@demotogether.com"
+        },
+        {
+            "spnamePretty": "DX80Coeur Defense",
+            "schedname": "DX80 Coeur Defensee (4)",
+            "spaceCap": 4,
+            "videoConferencing": "Y",
+            "tpscreen": "DX80 Neuilly",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "DX80.neuilly@demotogether.com"
+        },
+        {
+            "spnamePretty": "DX80 Coeur Defense",
+            "schedname": "DX80 - Coeur Defense in Workshop Room (4)",
+            "spaceCap": 4,
+            "videoConferencing": "Y",
+            "tpscreen": "DX80 Neuilly",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "DX80.neuilly@demotogether.com"
+        },
+        {
+            "spnamePretty": "DX70Coeur Defense",
+            "schedname": "DX70 Coeur Defense ",
+            "spaceCap": 2,
+            "videoConferencing": "Y",
+            "tpscreen": "DX70 JLD",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "dx70.jld@demotogether.com"
+        },
+        {
+            "spnamePretty": "DX70 Coeur Defense",
+            "schedname": "DX70 - Coeur Defense in Open Space (4)",
+            "spaceCap": 2,
+            "videoConferencing": "Y",
+            "tpscreen": "DX70 JLD",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "dx70.jld@demotogether.com"
+        },
+        {
+            "spnamePretty": "MX300Paris Anjou",
+            "schedname": "MX300 Paris Anjou(10)",
+            "spaceCap": 10,
+            "videoConferencing": "Y",
+            "tpscreen": "MX300 Paris Anjou",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "mx300.paris@demotogether.com"
+        },
+        {
+            "spnamePretty": "MX300 Paris Anjou",
+            "schedname": "MX300 - Paris Anjou in Showroom (10)",
+            "spaceCap": 10,
+            "videoConferencing": "Y",
+            "tpscreen": "MX300 Paris Anjou",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "mx300.paris@demotogether.com"
+        },
+        {
+            "spnamePretty": "MX300Marseille",
+            "schedname": "MX300 - Marseille10)",
+            "spaceCap": 10,
+            "videoConferencing": "Y",
+            "tpscreen": "MX300 Marseille",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "mx300.marseille@demotogether.com"
+        },
+        {
+            "spnamePretty": "MX300 Marseille",
+            "schedname": "MX300 - Marseille in Showroom (10)",
+            "spaceCap": 10,
+            "videoConferencing": "Y",
+            "tpscreen": "MX300 Marseille",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "mx300.marseille@demotogether.com"
+        },
+        {
+            "spnamePretty": "MX300Bordeaux",
+            "schedname": "MX300 Bordeaux (10)",
+            "spaceCap": 10,
+            "videoConferencing": "Y",
+            "tpscreen": "MX300 Bordeaux",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "mx300.bordeaux@demotogether.com"
+        },
+        {
+            "spnamePretty": "MX300 Bordeaux",
+            "schedname": "MX300 - Bordeaux in Showroom (10)",
+            "spaceCap": 10,
+            "videoConferencing": "Y",
+            "tpscreen": "MX300 Bordeaux",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "mx300.bordeaux@demotogether.com"
+        },
+        {
+            "spnamePretty": "DX70 Rennes",
+            "schedname": "DX70 Rennes (2)",
+            "spaceCap": 2,
+            "videoConferencing": "Y",
+            "tpscreen": "DX70 JLD",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "dx70.rennes@demotogether.com"
+        },
+        {
+            "spnamePretty": "DX70 Rennes",
+            "schedname": "DX70 - Rennes in Showroom (2)",
+            "spaceCap": 2,
+            "videoConferencing": "Y",
+            "tpscreen": "DX70 RENNES",
+            "proxyStatus": "Public",
+            "tpScreenNumber": 1,
+            "EmailAddress": "dx70.rennes@demotogether.com"
+        }
       
 
       
