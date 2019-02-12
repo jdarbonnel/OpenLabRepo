@@ -6,7 +6,7 @@ module.exports = {
   * Once you a familiar with the commands you can Type for example: **book a room at FRA tomorrow from 9:00 to 10:00**.\n\n 
   * You will need to know the building ID you want to book a room at. If you don't know it, [click here](https://roomcic.demotogether.com/siteobs.jpg)\n\n 
   * type: **reset** or or **restart** or **cancel** at any time to cancel a request.\n\n 
-  * type **support** to join a Spark space to ask questions about this bot\n\n * [click here](https://www.youtube.com/watch?v=DFO_6j8VhHc) to watch a quick demo video of roomRequest`,
+  * type **support** to join a Spark space to ask questions about this bot\n\n * [click here](https://www.youtube.com/watch?v=uR50kd3JThM) to watch a quick demo video of roomRequest`,
 
   cancelled: `You current request has been cancelled.`,
 
