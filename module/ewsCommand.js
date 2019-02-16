@@ -175,7 +175,7 @@ module.exports = {
                 "End": bookDetail.endDateTime,
                 "IsAllDayEvent": false,
                 "LegacyFreeBusyStatus": "Busy",
-                "Location": "@webex,@spark",
+                "Location": "@webex,:space",
                 "RequiredAttendees": {
                   "Attendee":{
                     "Mailbox": {
